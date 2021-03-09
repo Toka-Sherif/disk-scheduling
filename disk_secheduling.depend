@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609717946 source:c:\users\tokay\documents\term(7)\os\lab5\disk_secheduling\main.c
+	<stdio.h>
+	<math.h>
+
